@@ -27,3 +27,4 @@
 | ToDoList | https://github.com/x1n4px/ToDoList | |
 | MainMenuShop vista Consumidor | https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-VistaConsumidor | https://x1n4px.github.io/MainMenuShop/ |
 | MainMenuShop vista Empleado | https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-vistaEmpleado | |
+| OTP | https://github.com/x1n4px/Generador-Contrasenas-OTP | |
