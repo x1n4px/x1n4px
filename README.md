@@ -14,17 +14,18 @@
 
 ## Proyectos
 
-| NOMBRE | CÓDIGO | WEB |
-|-|-|-|
-| Editorial libros | https://github.com/x1n4px/editorialMiduW | https://x1n4px.github.io/editorialMiduW/ |
-| NutricionWeb | https://napfish-9dc58.web.app/ | https://github.com/x1n4px/NutricionWeb |
-| napWeb | https://github.com/x1n4px/napWEB | https://napfish-9dc58.web.app/ |
-| NintendoWeb | https://github.com/x1n4px/NintendoWEB | https://x1n4px.github.io/NintendoWEB/ | 
-| IMGToPDF | https://github.com/x1n4px/IMGToPDF | https://imgtopdf-b6376.web.app/ |
-| MonograWeb | https://github.com/x1n4px/monograWEB | https://x1n4px.github.io/monograWEB/ |
-| BonsaiWeb | https://github.com/x1n4px/bonsaiWeb | https://x1n4px.github.io/bonsaiWeb/ | 
-| AbstractWeb | https://github.com/x1n4px/abstractWeb | https://x1n4px.github.io/abstractWeb/ |
-| ToDoList | https://github.com/x1n4px/ToDoList | |
-| MainMenuShop vista Consumidor | https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-VistaConsumidor | https://x1n4px.github.io/MainMenuShop/ |
-| MainMenuShop vista Empleado | https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-vistaEmpleado | |
-| OTP | https://github.com/x1n4px/Generador-Contrasenas-OTP | |
+| NOMBRE | CÓDIGO | WEB | DESCRIPCIÓN |
+|-|-|-|-|
+| Editorial libros | https://github.com/x1n4px/editorialMiduW | https://x1n4px.github.io/editorialMiduW/ | prueba técnica de midudev |
+| NutricionWeb | https://napfish-9dc58.web.app/ | https://github.com/x1n4px/NutricionWeb | Página web de calculadoras |
+| napWeb | https://github.com/x1n4px/napWEB | https://napfish-9dc58.web.app/ | Página web de biotopos |
+| NintendoWeb | https://github.com/x1n4px/NintendoWEB | https://x1n4px.github.io/NintendoWEB/ | FrontEnd Practica Lvl 3 |
+| IMGToPDF | https://github.com/x1n4px/IMGToPDF | https://imgtopdf-b6376.web.app/ | FrontEnd Practica Lv 1 | 
+| MonograWeb | https://github.com/x1n4px/monograWEB | https://x1n4px.github.io/monograWEB/ | FrontEnd Practica Lv 1 |
+| BonsaiWeb | https://github.com/x1n4px/bonsaiWeb | https://x1n4px.github.io/bonsaiWeb/ |  FrontEnd Practica Lv 1 |
+| AbstractWeb | https://github.com/x1n4px/abstractWeb | https://x1n4px.github.io/abstractWeb/ | FrontEnd Practica Lv 1 |
+| ToDoList | https://github.com/x1n4px/ToDoList | | |
+| MainMenuShop vista Consumidor | https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-VistaConsumidor | https://x1n4px.github.io/MainMenuShop/ | Web de venta de alimentación de animales, parte vista consumidor. Back-end de Spring boot  |
+| MainMenuShop vista Empleado | https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-vistaEmpleado | | Web de venta de alimentación de animales, parte vista vendedor, es decir, tpv de venta y gestión de tickets |
+| OTP | https://github.com/x1n4px/Generador-Contrasenas-OTP | | Página web que envia un mensaje de un solo uso por email y lo confirma |
+| WildPaw | https://github.com/x1n4px/Wildpaws-Angular | https://natures-paws.web.app/ | Web de venta de alimentación de animales, esta vez con diseño minimalista, con login cifrado y conexión a back-end de nodejs |
