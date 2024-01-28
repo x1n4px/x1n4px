@@ -27,6 +27,4 @@
 | OTP | [ver código](https://github.com/x1n4px/Generador-Contrasenas-OTP) | | Página web que envia un mensaje de un solo uso por email y lo confirma |
 | WildPaw | [ver código](https://github.com/x1n4px/Wildpaws-Angular) | [ver web](https://natures-paws.web.app/) | Web de venta de alimentación de animales, esta vez con diseño minimalista, con login cifrado y conexión a back-end de nodejs |
 | QrCode | [ver código](https://github.com/x1n4px/QrViewer) | [ver web](https://x1n4px.github.io/QrViewer/) | Scan QR, Lector con cámara, Lecto de imagen qr |
-| sumaTest | [ver código](https://github.com/x1n4px/sumaTest) | [ver web](https://x1n4px.github.io/sumaTest/) | Calculadora simple de examenes tipo test |
-| serieViewer | [Ver código](https://github.com/x1n4px/serieViewer) | | Visor simple de videos | 
-| Clone Ayt Benalmádena | [Ver código](https://github.com/x1n4px/aytBenalmadenaClone) | [Ver Web](https://ayt-benalmadena-clone.vercel.app/) | Re-Styling de la web original del ayt de Benalmádena con fines de aprendizaje |
+ 
