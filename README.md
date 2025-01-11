@@ -6,28 +6,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=x1n4px&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
-
-
-## Proyectos
-
-| NOMBRE | CÓDIGO | WEB | DESCRIPCIÓN |
-|-|-|-|-|
-| Editorial libros | [ver código](https://github.com/x1n4px/editorialMiduW) | [ver web](https://x1n4px.github.io/editorialMiduW/) | prueba técnica de midudev |
-| NutricionWeb | [ver código](https://napfish-9dc58.web.app/) | [ver web](https://github.com/x1n4px/NutricionWeb) | Página web de calculadoras |
-| napWeb | [ver código](https://github.com/x1n4px/napWEB) | [ver web](https://napfish-9dc58.web.app/) | Página web de biotopos |
-| NintendoWeb | [ver código](https://github.com/x1n4px/NintendoWEB) | [ver web](https://x1n4px.github.io/NintendoWEB/) | FrontEnd Practica Lvl 3 |
-| IMGToPDF | [ver código](https://github.com/x1n4px/IMGToPDF) | [ver web](https://imgtopdf-b6376.web.app/) | Página web que convierte una imagen en un pdf | 
-| MonograWeb | [ver código](https://github.com/x1n4px/monograWEB) | [ver web](https://x1n4px.github.io/monograWEB/) | FrontEnd Practica Lv 1 |
-| BonsaiWeb | [ver código](https://github.com/x1n4px/bonsaiWeb) | [ver web](https://x1n4px.github.io/bonsaiWeb/) |  FrontEnd Practica Lv 1 |
-| AbstractWeb | [ver código](https://github.com/x1n4px/abstractWeb) | [ver web](https://x1n4px.github.io/abstractWeb/) | FrontEnd Practica Lv 1 |
-| ToDoList | [ver código](https://github.com/x1n4px/ToDoList) | | |
-| MainMenuShop vista Consumidor | [ver código](https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-VistaConsumidor) | [ver web](https://x1n4px.github.io/MainMenuShop/) | Web de venta de alimentación de animales, parte vista consumidor. Back-end de Spring boot  |
-| MainMenuShop vista Empleado | [ver código](https://github.com/x1n4px/MainMenuShop/tree/main/MainMenuShop-vistaEmpleado) | | Web de venta de alimentación de animales, parte vista vendedor, es decir, tpv de venta y gestión de tickets |
-| OTP | [ver código](https://github.com/x1n4px/Generador-Contrasenas-OTP) | | Página web que envia un mensaje de un solo uso por email y lo confirma |
-| WildPaw | [ver código](https://github.com/x1n4px/Wildpaws-Angular) | [ver web](https://natures-paws.web.app/) | Web de venta de alimentación de animales, esta vez con diseño minimalista, con login cifrado y conexión a back-end de nodejs |
-| QrCode | [ver código](https://github.com/x1n4px/QrViewer) | [ver web](https://x1n4px.github.io/QrViewer/) | Scan QR, Lector con cámara, Lecto de imagen qr |
-| AdminPro Front | [ver código](https://github.com/x1n4px/AdminPro) | | Frontend en angular con paquete visual |
-| AdminPro Back | [ver código](https://github.com/x1n4px/nodejs-hospital-angular-course-udemy) | | Backend en nodejs para AdminPro (Gestor de hospitales) |
-
- 
