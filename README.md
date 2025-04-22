@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy x1n4px
+# 👋 ¡Hola! Soy Ignacio Fdez
 
 Desarrollador apasionado por la tecnología, la programación y la resolución de problemas. Me gusta explorar nuevas herramientas y frameworks para construir soluciones creativas y eficientes. 
 
